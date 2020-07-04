@@ -1,13 +1,13 @@
 <?php
 
-namespace Array2xml;
+namespace Bijay\Array2Xml;
 
 use DOMDocument;
 use DOMElement;
 use DOMException;
 use Exception;
 
-class Array2xml
+class Array2Xml
 {
     protected $document;
 

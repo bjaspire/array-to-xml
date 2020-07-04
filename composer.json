@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\Array2Xml\\": "src"
+            "Bijay\\Array2Xml\\": "src"
         }
     }
 }
