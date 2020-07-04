@@ -1,6 +1,6 @@
 # Usage
 ```
-include 'library/array2xml.php
+include 'vendor/autoload.php
 $array = [
     'First node' => [
         'name' => 'Bijaya Oli',
