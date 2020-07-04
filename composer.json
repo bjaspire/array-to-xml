@@ -1,0 +1,25 @@
+{
+    "name": "bijay/array2xml",
+    "description": "Array to XML generator",
+    "license": "MIT",
+    "keywords": [
+        "generator",
+        "array",
+        "xml"
+    ],
+    "authors": [
+        {
+            "name": "Bijaya Kumar Oli",
+            "email": "bj.aspire@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : "^7.2",
+        "ext-dom": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Array2Xml\\": "src"
+        }
+    }
+}
