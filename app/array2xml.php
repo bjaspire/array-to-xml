@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Array2xml;
+namespace Array2xml;
 
 use DOMDocument;
 use DOMElement;
