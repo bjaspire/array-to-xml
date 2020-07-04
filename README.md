@@ -1,6 +1,6 @@
 # Usage
 ```
-include 'vendor/autoload.php
+include 'vendor/autoload.php'
 $array = [
     'First node' => [
         'name' => 'Bijaya Oli',
