@@ -1,6 +1,8 @@
 # Usage
 ```
 include 'vendor/autoload.php'
+use Bijay\Array2Xml\Array2Xml;
+
 $array = [
     'First node' => [
         'name' => 'Bijaya Oli',
@@ -13,7 +15,7 @@ $array = [
 ];
 ```
 ```
-$result = SaffronXmlGenerator::convert($array);
+$result = Array2Xml::convert($array);
 ```
 ## After running this piece of code $result will contain:
 ```
