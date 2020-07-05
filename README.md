@@ -1,4 +1,11 @@
-# Usage
+## Install
+You can install this package via composer.
+```
+composer require bijay/array2xml
+```
+
+## Usage
+
 ```
 include 'vendor/autoload.php'
 use Bijay\Array2Xml\Array2Xml;
